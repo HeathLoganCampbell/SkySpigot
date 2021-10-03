@@ -1,13 +1,7 @@
-Paper ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master) ![Read the Docs (version)](https://img.shields.io/readthedocs/paper/latest) ![version](https://img.shields.io/badge/version-1.17.1-9fc) ![Sonatype Nexus (Query Options)](https://img.shields.io/nexus/maven-snapshots/io.papermc.paper/paper-api?label=repo&server=https%3A%2F%2Fpapermc.io%2Frepo) 
-[![Discord](https://img.shields.io/discord/289587909051416579.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/papermc)
+SkySpigot
 ===========
 
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
-
-
-**Support and Project Discussion:**
- - [IRC](https://webchat.esper.net/?channels=paper) or [Discord](https://discord.gg/papermc)
- 
+A fork off paper 1.17, which allows you to easily save and load multiple worlds from a database, ideally targetted for skyblock servers.
 
 How To (Server Admins)
 ------
